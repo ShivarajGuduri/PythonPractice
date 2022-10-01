@@ -1,0 +1,10 @@
+a = "shiva raj "
+print(a.upper())
+print(a.lower())
+print(a.title())
+print(a.strip())
+print(a.find("a", 5))
+print(a.replace("s", "y"))
+print("i" not in a)
+print("i" in a)
+print(len(a))
